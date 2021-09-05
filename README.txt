@@ -21,3 +21,5 @@ Example https://hostname.com/OriginalUrl?short_url=aUKYOC
 
 Service will decode the shortened url and get the id of the URL. It will then query the database to return the original URL
 
+Time Taken for Project: ~3.5 hr
+
