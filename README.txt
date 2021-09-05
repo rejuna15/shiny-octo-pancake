@@ -1,7 +1,7 @@
 URL Shortener
 
 The app is written in FLASK and consists of 2 services
-
+Use pip install validators (To install the validators package)
 RUN
 Use pathtoproject/app.py flask run to run the project
 
